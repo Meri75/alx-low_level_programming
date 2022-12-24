@@ -16,5 +16,5 @@ void puts_half(char *str);
 void print_array(int *a, int m);
 char *_strcpy(char *dest, char *str);
 
-*end!*
+*end !*
 
